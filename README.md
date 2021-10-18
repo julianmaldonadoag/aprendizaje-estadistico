@@ -7,3 +7,5 @@
 3. [MLR y validación cruzada.](/RLM_y_validacion_cruzada)
 
 4. [K vecinos más cercanos (KNN).](/K_vecinos_mas_cercanos_KNN)
+
+5. [Regresión logística. Evaluación del modelo.](/Regresion_logistica)
