@@ -9,3 +9,10 @@
 4. [K vecinos más cercanos (KNN).](/K_vecinos_mas_cercanos_KNN)
 
 5. [Regresión logística. Evaluación del modelo.](/Regresion_logistica)
+
+6. [Métodos de clasificación binaria](/Metodos_clasificacion_binaria)
+
+    - K vecinos más cercanos.
+    - Regresión logística
+    - Redes neuronales.
+    - Máquinas de soporte vectorial.
