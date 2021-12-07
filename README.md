@@ -16,3 +16,5 @@
     - Regresión logística
     - Redes neuronales.
     - Máquinas de soporte vectorial.
+
+7. [Adaboost](/Adaboost)
